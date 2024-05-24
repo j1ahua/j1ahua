@@ -4,4 +4,4 @@
 💼 Currently looking for an internship
 --
 ## Contact me:
-📬 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=Gmail)](jiahuazhang0823@gmail.com)
+📬 [![LinkedLin](https://img.shields.io/badge/-LinkedLin-blue?logo=LinkedIn)](https://www.linkedin.com/in/jiahua-zhang-930a51296/)
