@@ -19,8 +19,7 @@
 <img align="left" alt= "JavaScript" width= "35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 
 
-<img align="left" alt= "PostgreSQL" width= "35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-           
+<img align="left" alt= "PostgreSQL" width= "35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
 
 
           
