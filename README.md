@@ -1,6 +1,6 @@
 # 🌀Jiahua Zhang
 🏫 I'm a fulltime student at Rutgers University - New Brunswick<br>
-💻 Interests: Cloud Computing, Data Analysis, Data Management<br>
+💻 Interests: Cloud Computing, Data Analysis, Machine Learning<br>
 💼 Currently looking for an internship
 
 ## Contact me:
